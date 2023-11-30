@@ -1,0 +1,87 @@
+﻿@using Dominio;
+
+<h2 class="mt-5">Publicaciones</h2>
+
+@if (ViewBag.ListaPosts.Count == 0)
+{
+    <div class="text-muted">
+        <span>No hay publicaciones para mostrar</span>
+    </div>
+}
+else
+{
+    @foreach (Post unP in @ViewBag.ListaPosts)
+    {
+        <div class="container mt-5">
+            <div class="card">
+                <div class="card-header">
+                    <h4>@unP.Titulo</h4>
+                    <span>@unP.Autor.Nombre</span>
+                    <span>@unP.Autor.Email</span>
+                </div>
+                <div class="card-body">
+                    <p>@unP.Contenido</p>
+                </div>
+                <div class="text-muted">
+                    <span class="d-block">@unP.Fecha</span>
+                    <span class="d-block">Valor de Aceptacion: @unP.ValorAceptacion(unP)</span>
+                    <span>Likes: @unP.CantidadLikes(unP)</span>
+                    <span>Dislikes: @unP.CantidadDislikes(unP)</span>
+                    <div>
+                        <a class="btn btn-success btn-sm" href="/Miembro/MiembroDaLike?Id=@unP.Id">Like</a>
+                        <a class="btn btn-danger btn-sm" href="/Miembro/MiembroDaDislike?Id=@unP.Id">Dislike</a>
+                    </div>       
+                </div>
+
+                @if (unP.ListarComentariosPost(unP).Count == 0)
+                {
+                    <div class="text-muted">
+                        <span class="p-2">No hay Comentarios para esta publicacion</span>
+                    </div>
+                }
+                else
+                {
+                    <div class="container">
+                        <div class="col-6 mx-auto">
+                            <h5 class="pt-3">Comentarios</h5>
+                            @if (ViewBag.MiembroLogueado.Estado == EnumEstadoMiembro.BLOQUEADO)
+                            {
+                                <div class="alert alert-warning">
+                                    <span>Tu cuenta está bloqueada para realizar un comentario</span>
+                                </div>
+                            }
+                            else
+                            {
+                                <!-- Formulario para hacer comentario en post -->
+                                <form action="@Url.Action("MiembroCrearComentario", "Miembro")" method="post">
+                                    <input name="Id" value="@unP.Id" hidden>
+                                    <input name="Visibilidad" value="@unP.Visibilidad" hidden>
+                                    <label for="Titulo" >Introduce un titulo</label>
+                                    <input class="form-control" name="Titulo" placeholder="Titulo" required maxlength="30" minlength="3">
+                                    <textarea class="form-control" placeholder="Comentar..." name="Contenido" required maxlength="300" minlength="1"></textarea>
+                                    <button type="submit" name="Comentar" class="btn btn-secondary btn-sm mt-2">Hacer Comentario</button>
+                                </form>
+                            }
+                        </div>
+                        @foreach (Comentario unC in unP.ListarComentariosPost(unP))
+                        {
+                            <div class="p-3 bg-light border container mt-3 col-6 mx-auto">
+                                <span>@unC.Autor.Nombre</span>
+                                <span>@unC.Autor.Email</span>
+                                <p>@unC.Contenido</p>
+                                <span class="d-block">@unC.Fecha</span>
+                                <span class="d-block">Valor de Aceptacion: @unC.ValorAceptacion(unC)</span>
+                                <span>Likes: @unC.CantidadLikes(unC)</span>
+                                <span>Dislikes: @unC.CantidadDislikes(unC)</span>
+                                <div>
+                                    <a class="btn btn-success btn-sm" href="/Miembro/MiembroDaLike?Id=@unC.Id">Like</a>
+                                    <a class="btn btn-danger btn-sm" href="/Miembro/MiembroDaDislike?Id=@unC.Id">Dislike</a>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                }
+            </div>
+        </div>
+    }
+}

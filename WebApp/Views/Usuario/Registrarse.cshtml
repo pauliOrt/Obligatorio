@@ -1,0 +1,19 @@
+﻿@using Dominio
+
+@if(ViewBag.Mensaje != null)
+{
+    <div class="alert-warning">@ViewBag.Mensaje</div>
+}
+<h2>Registrarme como miembro</h2>
+
+<form method="post">
+    <input type="text" placeholder="Email" name="Email"  /><br />
+    <input type="text" placeholder="Contrasenia" name="Contrasenia" /><br />
+    <input type="text" placeholder="Nombre" name="Nombre" /><br />
+    <input type="text" placeholder="Apellido" name="Apellido" /><br />
+    <input type="date" placeholder="Nacimiento (M/D/A)" name="FechaDeNacimiento" /><br />
+
+    <button type="submit"> Procesar</button>
+
+</form>
+<br />

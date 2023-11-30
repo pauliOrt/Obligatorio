@@ -1,0 +1,42 @@
+﻿@using Dominio;
+
+<h2>Lista de posts...</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Titulo</th>
+            <th>Autor</th>
+            <th>Estado Autor</th>
+            <th>Fecha Post</th>
+            <th>Estado Post</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Post unP in ViewBag.Post)
+        {
+            <tr>
+                <td>@unP.Titulo</td>
+                <td>@unP.Autor.Email</td>
+                @if (unP.Autor.Estado == EnumEstadoMiembro.NO_BLOQUEADO)
+                {
+                    <td>Habilitado</td>
+                }
+                else
+                {
+                    <td>Bloqueado</td>
+                }
+                <td>@unP.Fecha</td>
+                @if (unP.Estado == EnumEstadoPost.HABILITADO)
+                {
+                    <td><a href="/Administrador/AdminCambiarEstadoPost?Id=@unP.Id">Habilitado</a></td>
+                }
+                else
+                {
+                    <td><a href="/Administrador/AdminCambiarEstadoPost?Id=@unP.Id">Deshabilitado</a></td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+

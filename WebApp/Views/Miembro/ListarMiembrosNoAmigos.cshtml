@@ -1,0 +1,44 @@
+﻿@using Dominio;
+<h2>Enviar una solicitud de amistad...</h2>
+@if (ViewBag.ListaNoAmigos.Count == 0)
+{
+    <div text-muted">
+        <span>Ya eres amigo de todos los Miembros disponibles.</span>
+    </div>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Email</th>
+                <th>Enviar solicitud</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Miembro unM in @ViewBag.ListaNoAmigos)
+            {
+                @if (Sistema.Instancia.ExisteSolicitud(@ViewBag.MiembroLogueado.Email, unM.Email))
+                {
+                    <tr>
+                        <td>@unM.Nombre</td>
+                        <td>@unM.Apellido</td>
+                        <td>@unM.Email</td>
+                        <td>Ya hay una solicitud enviada</td>
+                    </tr>
+                }
+                else
+                {
+                    <tr>
+                        <td>@unM.Nombre</td>
+                        <td>@unM.Apellido</td>
+                        <td>@unM.Email</td>
+                        <td><a href="/Miembro/EnviarSolicitud?Email=@unM.Email">Enviar solicitud</a></td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+}

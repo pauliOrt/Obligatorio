@@ -1,0 +1,63 @@
+﻿@using Dominio;
+
+<h2>Buscar contenido en publicaciones, según valor de aceptación (VA)</h2>
+<form method="post" class="my-4">
+    <div class="form-group">
+        <p> <span class="fw-bolder">Instrucciones para VA:</span></p>
+        <ul>
+            <li>Ingresa un número entero.</li>
+            <li>Para buscar una publicación sin considerar su valor de aceptación, ingresa 0.</li>
+        </ul>
+        <label for="Va">Valor de aceptación (Ingresa un número entero): </label>
+        <input type="number" class="form-control" name="Va" />
+    </div>
+    <div class="form-group">
+        <p><span class="fw-bolder">Instrucciones para búsqueda de contenido:</span></p>
+        <ul>
+            <li>La búsqueda es sensible a mayúsculas y minúsculas.</li>
+            <li>Para encontrar una publicación independientemente de su contenido, no ingreses ningún carácter.</li>
+        </ul>
+        <label for="Texto">Contenido a buscar: </label>
+        <input type="text" class="form-control" name="Texto" />
+    </div>
+    <button type="submit" class="btn btn-primary">Buscar</button>
+</form>
+
+@if (ViewBag.Control != null)
+{
+    <h4>Resultados para tu búsqueda...</h4>
+    @if (ViewBag.Lista.Count > 0)
+    {
+        <table class="table table-striped">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Título</th>
+                    <th>Autor</th>
+                    <th>Email autor</th>
+                    <th>Contenido</th>
+                    <th>Valor de aceptación (VA)</th>
+                    <th>Tipo de publicación</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Publicacion unaP in ViewBag.Lista)
+                {
+                    <tr>
+                        <td>@unaP.Titulo</td>
+                        <td>@unaP.Autor.Nombre</td>
+                        <td>@unaP.Autor.Email</td>
+                        <td>@unaP.Contenido</td>
+                        <td>@unaP.ValorAceptacion(unaP)</td>
+                        <td>@unaP.GetType().Name</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="text-muted">
+            <span>No hay publicaciones para mostrar </span>
+        </div>
+    }
+}

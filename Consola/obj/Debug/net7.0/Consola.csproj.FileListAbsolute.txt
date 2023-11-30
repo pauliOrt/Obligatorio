@@ -1,0 +1,252 @@
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.1\Consola\bin\Debug\net7.0\Consola.exe
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.1\Consola\bin\Debug\net7.0\Consola.deps.json
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.1\Consola\bin\Debug\net7.0\Consola.runtimeconfig.json
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.1\Consola\bin\Debug\net7.0\Consola.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.1\Consola\bin\Debug\net7.0\Consola.pdb
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.1\Consola\bin\Debug\net7.0\Dominio.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.1\Consola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.1\Consola\obj\Debug\net7.0\Consola.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.1\Consola\obj\Debug\net7.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.1\Consola\obj\Debug\net7.0\Consola.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.1\Consola\obj\Debug\net7.0\Consola.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.1\Consola\obj\Debug\net7.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.1\Consola\obj\Debug\net7.0\Consola.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.1\Consola\obj\Debug\net7.0\Consola.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.1\Consola\obj\Debug\net7.0\refint\Consola.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.1\Consola\obj\Debug\net7.0\Consola.pdb
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.1\Consola\obj\Debug\net7.0\Consola.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.1\Consola\obj\Debug\net7.0\ref\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.2\Consola\bin\Debug\net7.0\Consola.exe
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.2\Consola\bin\Debug\net7.0\Consola.deps.json
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.2\Consola\bin\Debug\net7.0\Consola.runtimeconfig.json
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.2\Consola\bin\Debug\net7.0\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.2\Consola\bin\Debug\net7.0\Consola.pdb
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.2\Consola\bin\Debug\net7.0\Dominio.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.2\Consola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.2\Consola\obj\Debug\net7.0\Consola.csproj.AssemblyReference.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.2\Consola\obj\Debug\net7.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.2\Consola\obj\Debug\net7.0\Consola.AssemblyInfoInputs.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.2\Consola\obj\Debug\net7.0\Consola.AssemblyInfo.cs
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.2\Consola\obj\Debug\net7.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.2\Consola\obj\Debug\net7.0\Consola.csproj.CopyComplete
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.2\Consola\obj\Debug\net7.0\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.2\Consola\obj\Debug\net7.0\refint\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.2\Consola\obj\Debug\net7.0\Consola.pdb
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.2\Consola\obj\Debug\net7.0\Consola.genruntimeconfig.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.2\Consola\obj\Debug\net7.0\ref\Consola.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.3-20230930T200424Z-001\Obligatorio1.3\Consola\bin\Debug\net7.0\Consola.exe
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.3-20230930T200424Z-001\Obligatorio1.3\Consola\bin\Debug\net7.0\Consola.deps.json
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.3-20230930T200424Z-001\Obligatorio1.3\Consola\bin\Debug\net7.0\Consola.runtimeconfig.json
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.3-20230930T200424Z-001\Obligatorio1.3\Consola\bin\Debug\net7.0\Consola.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.3-20230930T200424Z-001\Obligatorio1.3\Consola\bin\Debug\net7.0\Consola.pdb
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.3-20230930T200424Z-001\Obligatorio1.3\Consola\bin\Debug\net7.0\Dominio.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.3-20230930T200424Z-001\Obligatorio1.3\Consola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.3-20230930T200424Z-001\Obligatorio1.3\Consola\obj\Debug\net7.0\Consola.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.3-20230930T200424Z-001\Obligatorio1.3\Consola\obj\Debug\net7.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.3-20230930T200424Z-001\Obligatorio1.3\Consola\obj\Debug\net7.0\Consola.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.3-20230930T200424Z-001\Obligatorio1.3\Consola\obj\Debug\net7.0\Consola.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.3-20230930T200424Z-001\Obligatorio1.3\Consola\obj\Debug\net7.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.3-20230930T200424Z-001\Obligatorio1.3\Consola\obj\Debug\net7.0\Consola.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.3-20230930T200424Z-001\Obligatorio1.3\Consola\obj\Debug\net7.0\Consola.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.3-20230930T200424Z-001\Obligatorio1.3\Consola\obj\Debug\net7.0\refint\Consola.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.3-20230930T200424Z-001\Obligatorio1.3\Consola\obj\Debug\net7.0\Consola.pdb
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.3-20230930T200424Z-001\Obligatorio1.3\Consola\obj\Debug\net7.0\Consola.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.3-20230930T200424Z-001\Obligatorio1.3\Consola\obj\Debug\net7.0\ref\Consola.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.5\Obligatorio1.5\Consola\bin\Debug\net7.0\Consola.exe
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.5\Obligatorio1.5\Consola\bin\Debug\net7.0\Consola.deps.json
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.5\Obligatorio1.5\Consola\bin\Debug\net7.0\Consola.runtimeconfig.json
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.5\Obligatorio1.5\Consola\bin\Debug\net7.0\Consola.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.5\Obligatorio1.5\Consola\bin\Debug\net7.0\Consola.pdb
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.5\Obligatorio1.5\Consola\bin\Debug\net7.0\Dominio.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.5\Obligatorio1.5\Consola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.5\Obligatorio1.5\Consola\obj\Debug\net7.0\Consola.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.5\Obligatorio1.5\Consola\obj\Debug\net7.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.5\Obligatorio1.5\Consola\obj\Debug\net7.0\Consola.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.5\Obligatorio1.5\Consola\obj\Debug\net7.0\Consola.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.5\Obligatorio1.5\Consola\obj\Debug\net7.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.5\Obligatorio1.5\Consola\obj\Debug\net7.0\Consola.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.5\Obligatorio1.5\Consola\obj\Debug\net7.0\Consola.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.5\Obligatorio1.5\Consola\obj\Debug\net7.0\refint\Consola.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.5\Obligatorio1.5\Consola\obj\Debug\net7.0\Consola.pdb
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.5\Obligatorio1.5\Consola\obj\Debug\net7.0\Consola.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.5\Obligatorio1.5\Consola\obj\Debug\net7.0\ref\Consola.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.6\Obligatorio1.6\Consola\bin\Debug\net7.0\Consola.exe
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.6\Obligatorio1.6\Consola\bin\Debug\net7.0\Consola.deps.json
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.6\Obligatorio1.6\Consola\bin\Debug\net7.0\Consola.runtimeconfig.json
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.6\Obligatorio1.6\Consola\bin\Debug\net7.0\Consola.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.6\Obligatorio1.6\Consola\bin\Debug\net7.0\Consola.pdb
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.6\Obligatorio1.6\Consola\bin\Debug\net7.0\Dominio.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.6\Obligatorio1.6\Consola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.6\Obligatorio1.6\Consola\obj\Debug\net7.0\Consola.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.6\Obligatorio1.6\Consola\obj\Debug\net7.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.6\Obligatorio1.6\Consola\obj\Debug\net7.0\Consola.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.6\Obligatorio1.6\Consola\obj\Debug\net7.0\Consola.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.6\Obligatorio1.6\Consola\obj\Debug\net7.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.6\Obligatorio1.6\Consola\obj\Debug\net7.0\Consola.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.6\Obligatorio1.6\Consola\obj\Debug\net7.0\Consola.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.6\Obligatorio1.6\Consola\obj\Debug\net7.0\refint\Consola.dll
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.6\Obligatorio1.6\Consola\obj\Debug\net7.0\Consola.pdb
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.6\Obligatorio1.6\Consola\obj\Debug\net7.0\Consola.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\OB\Obligatorio1.6\Obligatorio1.6\Consola\obj\Debug\net7.0\ref\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.7\Obligatorio1.7\Consola\bin\Debug\net7.0\Consola.exe
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.7\Obligatorio1.7\Consola\bin\Debug\net7.0\Consola.deps.json
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.7\Obligatorio1.7\Consola\bin\Debug\net7.0\Consola.runtimeconfig.json
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.7\Obligatorio1.7\Consola\bin\Debug\net7.0\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.7\Obligatorio1.7\Consola\bin\Debug\net7.0\Consola.pdb
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.7\Obligatorio1.7\Consola\bin\Debug\net7.0\Dominio.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.7\Obligatorio1.7\Consola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.7\Obligatorio1.7\Consola\obj\Debug\net7.0\Consola.csproj.AssemblyReference.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.7\Obligatorio1.7\Consola\obj\Debug\net7.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.7\Obligatorio1.7\Consola\obj\Debug\net7.0\Consola.AssemblyInfoInputs.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.7\Obligatorio1.7\Consola\obj\Debug\net7.0\Consola.AssemblyInfo.cs
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.7\Obligatorio1.7\Consola\obj\Debug\net7.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.7\Obligatorio1.7\Consola\obj\Debug\net7.0\Consola.csproj.CopyComplete
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.7\Obligatorio1.7\Consola\obj\Debug\net7.0\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.7\Obligatorio1.7\Consola\obj\Debug\net7.0\refint\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.7\Obligatorio1.7\Consola\obj\Debug\net7.0\Consola.pdb
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.7\Obligatorio1.7\Consola\obj\Debug\net7.0\Consola.genruntimeconfig.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.7\Obligatorio1.7\Consola\obj\Debug\net7.0\ref\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.8\Obligatorio1.8\Consola\bin\Debug\net7.0\Consola.exe
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.8\Obligatorio1.8\Consola\bin\Debug\net7.0\Consola.deps.json
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.8\Obligatorio1.8\Consola\bin\Debug\net7.0\Consola.runtimeconfig.json
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.8\Obligatorio1.8\Consola\bin\Debug\net7.0\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.8\Obligatorio1.8\Consola\bin\Debug\net7.0\Consola.pdb
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.8\Obligatorio1.8\Consola\bin\Debug\net7.0\Dominio.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.8\Obligatorio1.8\Consola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.8\Obligatorio1.8\Consola\obj\Debug\net7.0\Consola.csproj.AssemblyReference.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.8\Obligatorio1.8\Consola\obj\Debug\net7.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.8\Obligatorio1.8\Consola\obj\Debug\net7.0\Consola.AssemblyInfoInputs.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.8\Obligatorio1.8\Consola\obj\Debug\net7.0\Consola.AssemblyInfo.cs
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.8\Obligatorio1.8\Consola\obj\Debug\net7.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.8\Obligatorio1.8\Consola\obj\Debug\net7.0\Consola.csproj.CopyComplete
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.8\Obligatorio1.8\Consola\obj\Debug\net7.0\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.8\Obligatorio1.8\Consola\obj\Debug\net7.0\refint\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.8\Obligatorio1.8\Consola\obj\Debug\net7.0\Consola.pdb
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.8\Obligatorio1.8\Consola\obj\Debug\net7.0\Consola.genruntimeconfig.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.8\Obligatorio1.8\Consola\obj\Debug\net7.0\ref\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.9\Obligatorio1.9\Consola\bin\Debug\net7.0\Consola.exe
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.9\Obligatorio1.9\Consola\bin\Debug\net7.0\Consola.deps.json
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.9\Obligatorio1.9\Consola\bin\Debug\net7.0\Consola.runtimeconfig.json
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.9\Obligatorio1.9\Consola\bin\Debug\net7.0\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.9\Obligatorio1.9\Consola\bin\Debug\net7.0\Consola.pdb
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.9\Obligatorio1.9\Consola\bin\Debug\net7.0\Dominio.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.9\Obligatorio1.9\Consola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\Consola.csproj.AssemblyReference.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\Consola.AssemblyInfoInputs.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\Consola.AssemblyInfo.cs
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\Consola.csproj.CopyComplete
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\refint\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\Consola.pdb
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\Consola.genruntimeconfig.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\ref\Consola.dll
+C:\Users\USUARIO\Desktop\Obligatorio1.9\Obligatorio1.9\Obligatorio1.9\Consola\bin\Debug\net7.0\Consola.exe
+C:\Users\USUARIO\Desktop\Obligatorio1.9\Obligatorio1.9\Obligatorio1.9\Consola\bin\Debug\net7.0\Consola.deps.json
+C:\Users\USUARIO\Desktop\Obligatorio1.9\Obligatorio1.9\Obligatorio1.9\Consola\bin\Debug\net7.0\Consola.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Obligatorio1.9\Obligatorio1.9\Obligatorio1.9\Consola\bin\Debug\net7.0\Consola.dll
+C:\Users\USUARIO\Desktop\Obligatorio1.9\Obligatorio1.9\Obligatorio1.9\Consola\bin\Debug\net7.0\Consola.pdb
+C:\Users\USUARIO\Desktop\Obligatorio1.9\Obligatorio1.9\Obligatorio1.9\Consola\bin\Debug\net7.0\Dominio.dll
+C:\Users\USUARIO\Desktop\Obligatorio1.9\Obligatorio1.9\Obligatorio1.9\Consola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\Obligatorio1.9\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\Consola.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Obligatorio1.9\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Obligatorio1.9\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\Consola.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Obligatorio1.9\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\Consola.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Obligatorio1.9\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Obligatorio1.9\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\Consola.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Obligatorio1.9\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\Consola.dll
+C:\Users\USUARIO\Desktop\Obligatorio1.9\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\refint\Consola.dll
+C:\Users\USUARIO\Desktop\Obligatorio1.9\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\Consola.pdb
+C:\Users\USUARIO\Desktop\Obligatorio1.9\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\Consola.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Obligatorio1.9\Obligatorio1.9\Obligatorio1.9\Consola\obj\Debug\net7.0\ref\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Consola\bin\Debug\net7.0\Consola.exe
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Consola\bin\Debug\net7.0\Consola.deps.json
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Consola\bin\Debug\net7.0\Consola.runtimeconfig.json
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Consola\bin\Debug\net7.0\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Consola\bin\Debug\net7.0\Consola.pdb
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Consola\bin\Debug\net7.0\Dominio.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Consola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Consola\obj\Debug\net7.0\Consola.csproj.AssemblyReference.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Consola\obj\Debug\net7.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Consola\obj\Debug\net7.0\Consola.AssemblyInfoInputs.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Consola\obj\Debug\net7.0\Consola.AssemblyInfo.cs
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Consola\obj\Debug\net7.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Consola\obj\Debug\net7.0\Consola.csproj.CopyComplete
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Consola\obj\Debug\net7.0\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Consola\obj\Debug\net7.0\refint\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Consola\obj\Debug\net7.0\Consola.pdb
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Consola\obj\Debug\net7.0\Consola.genruntimeconfig.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Obligatorio2.1\Consola\obj\Debug\net7.0\ref\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.2\Obligatorio2.2\Consola\bin\Debug\net7.0\Consola.exe
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.2\Obligatorio2.2\Consola\bin\Debug\net7.0\Consola.deps.json
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.2\Obligatorio2.2\Consola\bin\Debug\net7.0\Consola.runtimeconfig.json
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.2\Obligatorio2.2\Consola\bin\Debug\net7.0\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.2\Obligatorio2.2\Consola\bin\Debug\net7.0\Consola.pdb
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.2\Obligatorio2.2\Consola\bin\Debug\net7.0\Dominio.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.2\Obligatorio2.2\Consola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\Consola.csproj.AssemblyReference.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\Consola.AssemblyInfoInputs.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\Consola.AssemblyInfo.cs
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\Consola.csproj.CopyComplete
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\refint\Consola.dll
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\Consola.pdb
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\Consola.genruntimeconfig.cache
+C:\Users\Juan Francisco\OneDrive\Desktop\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\ref\Consola.dll
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\Obligatorio2.2\Obligatorio2.2\Consola\bin\Debug\net7.0\Consola.exe
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\Obligatorio2.2\Obligatorio2.2\Consola\bin\Debug\net7.0\Consola.deps.json
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\Obligatorio2.2\Obligatorio2.2\Consola\bin\Debug\net7.0\Consola.runtimeconfig.json
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\Obligatorio2.2\Obligatorio2.2\Consola\bin\Debug\net7.0\Consola.dll
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\Obligatorio2.2\Obligatorio2.2\Consola\bin\Debug\net7.0\Consola.pdb
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\Obligatorio2.2\Obligatorio2.2\Consola\bin\Debug\net7.0\Dominio.dll
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\Obligatorio2.2\Obligatorio2.2\Consola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\Consola.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\Consola.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\Consola.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\Consola.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\Consola.dll
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\refint\Consola.dll
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\Consola.pdb
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\Consola.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\Obligatorio2.2\Obligatorio2.2\Consola\obj\Debug\net7.0\ref\Consola.dll
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\ObligatorioPostCrisis\ObligatorioPostCrisis\Consola\bin\Debug\net7.0\Consola.exe
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\ObligatorioPostCrisis\ObligatorioPostCrisis\Consola\bin\Debug\net7.0\Consola.deps.json
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\ObligatorioPostCrisis\ObligatorioPostCrisis\Consola\bin\Debug\net7.0\Consola.runtimeconfig.json
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\ObligatorioPostCrisis\ObligatorioPostCrisis\Consola\bin\Debug\net7.0\Consola.dll
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\ObligatorioPostCrisis\ObligatorioPostCrisis\Consola\bin\Debug\net7.0\Consola.pdb
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\ObligatorioPostCrisis\ObligatorioPostCrisis\Consola\bin\Debug\net7.0\Dominio.dll
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\ObligatorioPostCrisis\ObligatorioPostCrisis\Consola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\ObligatorioPostCrisis\ObligatorioPostCrisis\Consola\obj\Debug\net7.0\Consola.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\ObligatorioPostCrisis\ObligatorioPostCrisis\Consola\obj\Debug\net7.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\ObligatorioPostCrisis\ObligatorioPostCrisis\Consola\obj\Debug\net7.0\Consola.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\ObligatorioPostCrisis\ObligatorioPostCrisis\Consola\obj\Debug\net7.0\Consola.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\ObligatorioPostCrisis\ObligatorioPostCrisis\Consola\obj\Debug\net7.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\ObligatorioPostCrisis\ObligatorioPostCrisis\Consola\obj\Debug\net7.0\Consola.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\ObligatorioPostCrisis\ObligatorioPostCrisis\Consola\obj\Debug\net7.0\Consola.dll
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\ObligatorioPostCrisis\ObligatorioPostCrisis\Consola\obj\Debug\net7.0\refint\Consola.dll
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\ObligatorioPostCrisis\ObligatorioPostCrisis\Consola\obj\Debug\net7.0\Consola.pdb
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\ObligatorioPostCrisis\ObligatorioPostCrisis\Consola\obj\Debug\net7.0\Consola.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\obligatorio postCrisis\ObligatorioPostCrisis\ObligatorioPostCrisis\Consola\obj\Debug\net7.0\ref\Consola.dll
+C:\Users\USUARIO\Desktop\Obligatorio2.0\Obligatorio\Obligatorio\Consola\bin\Debug\net7.0\Consola.exe
+C:\Users\USUARIO\Desktop\Obligatorio2.0\Obligatorio\Obligatorio\Consola\bin\Debug\net7.0\Consola.deps.json
+C:\Users\USUARIO\Desktop\Obligatorio2.0\Obligatorio\Obligatorio\Consola\bin\Debug\net7.0\Consola.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Obligatorio2.0\Obligatorio\Obligatorio\Consola\bin\Debug\net7.0\Consola.dll
+C:\Users\USUARIO\Desktop\Obligatorio2.0\Obligatorio\Obligatorio\Consola\bin\Debug\net7.0\Consola.pdb
+C:\Users\USUARIO\Desktop\Obligatorio2.0\Obligatorio\Obligatorio\Consola\bin\Debug\net7.0\Dominio.dll
+C:\Users\USUARIO\Desktop\Obligatorio2.0\Obligatorio\Obligatorio\Consola\bin\Debug\net7.0\Dominio.pdb
+C:\Users\USUARIO\Desktop\Obligatorio2.0\Obligatorio\Obligatorio\Consola\obj\Debug\net7.0\Consola.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Obligatorio2.0\Obligatorio\Obligatorio\Consola\obj\Debug\net7.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Obligatorio2.0\Obligatorio\Obligatorio\Consola\obj\Debug\net7.0\Consola.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Obligatorio2.0\Obligatorio\Obligatorio\Consola\obj\Debug\net7.0\Consola.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Obligatorio2.0\Obligatorio\Obligatorio\Consola\obj\Debug\net7.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Obligatorio2.0\Obligatorio\Obligatorio\Consola\obj\Debug\net7.0\Consola.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Obligatorio2.0\Obligatorio\Obligatorio\Consola\obj\Debug\net7.0\Consola.dll
+C:\Users\USUARIO\Desktop\Obligatorio2.0\Obligatorio\Obligatorio\Consola\obj\Debug\net7.0\refint\Consola.dll
+C:\Users\USUARIO\Desktop\Obligatorio2.0\Obligatorio\Obligatorio\Consola\obj\Debug\net7.0\Consola.pdb
+C:\Users\USUARIO\Desktop\Obligatorio2.0\Obligatorio\Obligatorio\Consola\obj\Debug\net7.0\Consola.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Obligatorio2.0\Obligatorio\Obligatorio\Consola\obj\Debug\net7.0\ref\Consola.dll

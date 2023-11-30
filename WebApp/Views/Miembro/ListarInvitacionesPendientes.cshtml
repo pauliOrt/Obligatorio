@@ -1,0 +1,46 @@
+﻿@using Dominio;
+
+<h2>Ver solicitudes de amistad penidentes </h2>
+@if (TempData["Mensaje"] != null)
+{
+    <div class="alert alert-success">
+        <span>@TempData["Mensaje"]</span>
+    </div>
+}
+@if(ViewBag.ListaInvitacionesPendientes.Count != 0)
+{
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre Solicitante</th>
+            <th>Apellido Solicitante</th>
+            <th>Email Solicitante</th>
+            <th>Fecha de solicitud</th>
+            <th>Estado de solicitud</th>
+            <th>Aceptar</th>
+            <th>Rechazar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Invitacion unaI in @ViewBag.ListaInvitacionesPendientes)
+        {
+  
+                <tr>
+                    <td>@unaI.Solicitante.Nombre</td>
+                    <td>@unaI.Solicitante.Apellido</td>
+                    <td>@unaI.Solicitante.Email</td>
+                    <td>@unaI.FechaSolicitud</td>
+                    <td>@unaI.EstadoInvitacion</td>
+                    <td><a href="/Miembro/MiembroAceptarSolicitud?EmailSolicitante=@unaI.Solicitante.Email">Aceptar</a></td>
+                    <td><a href="/Miembro/MiembroRechazarSolicitud?EmailSolicitante=@unaI.Solicitante.Email">Rechazar</a></td>
+                </tr>
+        }
+    </tbody>
+    </table>
+}
+else
+{
+    <div text-muted">
+        <span>No hay invitaciones de amistad pendientes.</span>
+    </div>
+}

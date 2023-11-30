@@ -1,0 +1,43 @@
+﻿@using Dominio;
+
+<h2>Lista de miembros</h2>
+@if (ViewBag.Miembros.Count == 0)
+{
+    <div text-muted">
+        <span>No existen miembros para mostrar </span>
+    </div>
+}
+else
+{
+<table class="table">
+    <thead>
+        <tr>
+            <th>Apellido</th>
+            <th>Nombre</th>
+            <th>Email</th>
+            <th>Fecha de Nacimiento</th>
+            <th>Estado</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Miembro unM in ViewBag.Miembros)
+        {
+            <tr>
+                <td>@unM.Apellido</td>
+                <td>@unM.Nombre</td>
+                <td>@unM.Email</td>
+                <td>@unM.FechaDeNacimiento</td>
+                @if (unM.Estado == EnumEstadoMiembro.NO_BLOQUEADO)
+                {
+                    <td><a href="/Administrador/AdminCambiarEstadoMiembro?Email=@unM.Email">Activo</a></td>
+                }
+                else
+                {
+                    <td><a href="/Administrador/AdminCambiarEstadoMiembro?Email=@unM.Email">Bloqueado</a></td>
+                }
+
+            </tr>
+        }
+    </tbody>
+</table>
+}

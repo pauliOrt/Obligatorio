@@ -1,0 +1,29 @@
+﻿@using Dominio;
+
+<h2>Crea un post</h2>
+@if (ViewBag.Mensaje != null){
+    <div class=" alert-success">@ViewBag.Mensaje</div>
+}
+@if (ViewBag.MensajeError != null)
+{
+    <div class=" alert-danger">@ViewBag.MensajeError</div>
+}
+@if(ViewBag.MiembroLogueado.Estado == EnumEstadoMiembro.BLOQUEADO)
+{
+    <div class="alert alert-warning">
+        <span>Tu cuenta está bloqueada para realizar post</span>
+    </div>
+}
+else
+{
+    <form method="post">
+        <select name="Visibilidad">
+            <option value="PUBLICO">PÚBLICO</option>
+            <option value="PRIVADO">PRIVADO</option>
+        </select> <br />
+        <input type="text" placeholder="Título" name="Titulo" required maxlength="30" minlength="1" /><br />
+        <input type="text" placeholder="Contenido" name="Contenido" required maxlength="300" minlength="1" /><br />
+        <input type="text" placeholder="Nombre Imagen" name="NombreImagen"/><br />
+        <button type="submit">Crear</button>
+    </form>
+}

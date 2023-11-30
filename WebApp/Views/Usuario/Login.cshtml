@@ -1,0 +1,16 @@
+﻿@using Dominio;
+<div>
+    @if (ViewBag.Mensaje != null)
+    {
+        <div class="alert alert-danger">@ViewBag.Mensaje</div>
+    }
+
+    <h2>Login</h2>
+    <form method="post">
+        <div class="form-group">
+            <input type="text" placeholder="Email" name="Email" class="form-control" style="width: 300px;" />
+            <input type="password" placeholder="Contraseña" name="Contrasenia" class="form-control" style="width: 300px;" />
+            <button type="submit" class="btn btn-primary">Procesar</button>
+        </div>
+    </form>
+</div>

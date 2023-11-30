@@ -1,0 +1,13 @@
+﻿@using Dominio;
+@model Usuario;
+
+@if (Context.Session.GetString("Rol") == "Miembro")
+{
+ 
+    <h2>Bienvenido @ViewBag.unM.Nombre</h2>
+}
+else
+{
+    <h2>Bienvenido Administrador @Model.Email</h2>
+
+}
